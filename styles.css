@@ -1,0 +1,44 @@
+body {
+   font-family: "Outfit", sans-serif;
+   text-align: center;
+
+   background-color: hsl(212, 45%, 89%);
+   
+}
+
+main {
+    background-color: hsl(0, 0%, 100%);
+    padding: 1rem 0;
+    margin: 5rem auto;
+    border-radius: 15px;
+    width: 18rem;
+
+}
+
+img {
+    width: 16rem;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+#first-p {
+    font-size: large;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+}
+
+#second-p {
+    font-size: small;
+    font-weight: 400;
+    color: hsl(216, 15%, 48%);
+    
+}
+
+.attribution {
+    margin: 4rem;
+    font-size: small;
+    font-weight: 600;
+    color: hsl(218, 44%, 22%);
+
+}
+
